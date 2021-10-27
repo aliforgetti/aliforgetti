@@ -6,7 +6,7 @@
 
 ## Hi 👋 I'm Ali!
 
-I'm an engineer turned data scientist with a keen interest in leveraging data science to make better sense of the world around me and to improve human well-being. I enjoy working on projects utilizing natural language processing and machine learning to answer important questions about human behavior and health. 
+I'm an electrical engineer turned data scientist with a keen interest in leveraging data science to make better sense of the world around me and to improve human well-being. I enjoy working on projects utilizing natural language processing and machine learning to answer important questions about human behavior and health. 
 
 
 <details>
