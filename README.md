@@ -1,8 +1,5 @@
 
-<p align="center">
-<a href="https://www.linkedin.com/in/aliyaqoob/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aliyaqoob/" alt="aliyaqoob"/></a>
-<a href="https://twitter.com/aliforgettio" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/aliforgettio" alt="aliforgettio"/></a>
-</p>
+
 
 ## Hi 👋 I'm Ali!
 
@@ -22,6 +19,10 @@ I'm a data scientist with a keen interest in leveraging data science to make bet
   
 </details>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/aliyaqoob/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aliyaqoob/" alt="aliyaqoob"/></a>
+<a href="https://twitter.com/aliforgettio" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/aliforgettio" alt="aliforgettio"/></a>
+</p>
 
 
 
